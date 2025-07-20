@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1YH3qYUoVZUwE-9MvKIjjcob9NIY9LpNM
 """
 
-pip install streamlit requests opencv-python streamlit-drawable-canvas inference-sdk
+
 
 import streamlit as st
 import cv2
